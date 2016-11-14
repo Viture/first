@@ -1,2 +1,6 @@
 yeah!
+<<<<<<< HEAD
 123
+=======
+how stupid i am!
+>>>>>>> origin/master
